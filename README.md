@@ -1,5 +1,5 @@
 # Shodan_SHIFT
-Shodan SHIFT demonstrates one of many useful use cases for using Shodan to threat hunt. Specifically, SHIFT assists a user with identification of vulnerable source and destination IP addresses contained in a packet capture file.
+Shodan SHIFT demonstrates one of many useful use cases for using Shodan to threat hunt. Specifically, SHIFT assists a user with identification of vulnerable source and destination IP addresses contained in a packet capture file based on CVEs reported by Shodan.
 ## Installation
 Python3 and tshark are required for shift to work properly. Additionaly, the provided requirements.txt file should be run to load any missing python dependencies.
 ## Usage
